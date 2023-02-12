@@ -13,6 +13,10 @@ In this challenge, you will create a storage account in Azure and use Azure Func
 ## Useful References
 - Hacker HandBook [link]
 
+## Tools
+- Postman agent [https://www.postman.com/downloads/]
+- Visual Studio
+
 ## Description
 The challenge consists of the following steps:
 
