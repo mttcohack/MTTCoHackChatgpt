@@ -39,5 +39,5 @@ The challenge consists of the following steps:
 - The Azure Functions project can be created using Visual Studio or the Azure portal.
 - To make the storage account, select the option for LRS replication.
 
-## Optional Challenge (More advanced)
+## Optional Challenge (More advanced) 
 Integrate the Azure Functions with other Azure services to perform actions based on events or triggers using the Event Grid.
