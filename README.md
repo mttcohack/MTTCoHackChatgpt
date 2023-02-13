@@ -45,7 +45,7 @@ The challenge consists of the following steps:
 ## Optional Challenge (More advanced) 
 Read text from an image using Azure Computer Vision, Storage Account, and Azure Functions
 
-## Hints For the optional challenge:
+## Hints
 
 - Use the Azure portal to create the Azure Computer Vision resource
 - Use the Azure Functions portal to create the Azure Function
