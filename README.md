@@ -9,6 +9,7 @@ In this challenge, you will create a storage account in Azure and use Azure Func
 - An Azure account
 - Access to the Azure portal
 - An example of an Azure function that uploads data to an Azure Storage account
+- ChatGPT access
 
 ## Useful References
 - Hacker HandBook [link]
@@ -40,4 +41,14 @@ The challenge consists of the following steps:
 - To make the storage account, select the option for LRS replication.
 
 ## Optional Challenge (More advanced) 
-Integrate the Azure Functions with other Azure services to perform actions based on events or triggers using the Event Grid.
+Read text from an image using Azure Computer Vision, Storage Account, and Azure Functions
+
+## Hints For the optional challenge:
+
+- Use the Azure portal to create the Azure Computer Vision resource
+- Use the Azure Functions portal to create the Azure Function
+- Use the Azure Functions documentation for guidance on integrating with Azure Computer Vision and Azure Storage Account
+- To extract text from images using Azure Computer Vision:
+- Use the OCR API to recognize text from the image
+- Use the Read API to detect and recognize text from an image
+- Explore other features of Azure Computer Vision to improve the accuracy of the text recognition
