@@ -62,12 +62,12 @@ Read text from an image using Azure Computer Vision, Storage Account, and Azure 
 ## Validation
 
 - Open CloudShell in the azure portal
-- Upload the [validation script](./cohackvalidator.sh)
+- Upload the [validation script](./scripts/cohackvalidator.sh)
 
 #### Usage: 
           ./cohackvalidator.sh <storage_account_name> <storage_account_key> <container_name> <function_url>
 
-![alt text](./cohackvalidator.jpg "Validation")
+![alt text](./images/cohackvalidator.jpg "Validation")
 
 #### Parameters:
 #####   - storage_account_name - the name of the Azure Storage account
