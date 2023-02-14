@@ -1,3 +1,5 @@
+   # Building an Azure Storage Function with ChatGpt Assistance
+
 # Overview
 In this challenge, you will create a storage account in Azure and use Azure Functions to perform actions on the stored data. You will learn how to create, manage, and interact with data stored in Azure storage, and how to use Azure Functions to perform actions on that data.
 In the Optional advanced challenge, you will use Azure Computer Vision, Storage Account, and Azure Functions to read text from an image. 
@@ -15,8 +17,8 @@ This challenge is designed to help you understand how to integrate multiple Azur
 - Validation script
 
 
-## Useful References
-- Hacker HandBook [link](./HackerHandBook.pdf)
+## AI assistance
+- ChatGPT [http://chat.openai.com/]
 
 ## Tools
 - Postman agent [https://www.postman.com/downloads/]
