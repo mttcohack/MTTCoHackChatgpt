@@ -65,6 +65,8 @@ Read text from an image using Azure Computer Vision, Storage Account, and Azure 
 #### Usage: 
           ./cohackvalidator.sh <storage_account_name> <storage_account_key> <container_name> <function_url>
 
+![alt text](./cohackvalidator.jpg "Validation")
+
 #### Parameters:
 #####   - storage_account_name - the name of the Azure Storage account
 #####   - storage_account_key - the access key for the Azure Storage account
