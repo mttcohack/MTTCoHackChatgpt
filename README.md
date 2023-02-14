@@ -16,7 +16,7 @@ This challenge is designed to help you understand how to integrate multiple Azur
 
 
 ## Useful References
-- Hacker HandBook [link](./hackerhandbook)
+- Hacker HandBook [link](./HackerHandBook.pdf)
 
 ## Tools
 - Postman agent [https://www.postman.com/downloads/]
