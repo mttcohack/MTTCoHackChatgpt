@@ -10,11 +10,13 @@ This challenge is designed to help you understand how to integrate multiple Azur
 ## Provided Setup
 - An Azure account
 - Access to the Azure portal
-- An example of an Azure function that uploads data to an Azure Storage account
 - ChatGPT access
+- An example of an Azure function that uploads data to an Azure Storage account
+- Validation script
+
 
 ## Useful References
-- Hacker HandBook [link]
+- Hacker HandBook [link](./hackerhandbook)
 
 ## Tools
 - Postman agent [https://www.postman.com/downloads/]
@@ -54,3 +56,17 @@ Read text from an image using Azure Computer Vision, Storage Account, and Azure 
   - Use the OCR API to recognize text from the image
   - Use the Read API to detect and recognize text from an image
   - Explore other features of Azure Computer Vision to improve the accuracy of the text recognition
+
+## Validation
+
+- Open CloudShell in the azure portal
+- Upload the [validation script](./cohackvalidator.sh)
+
+#### Usage: 
+          ./cohackvalidator.sh <storage_account_name> <storage_account_key> <container_name> <function_url>
+
+#### Parameters:
+#####   - storage_account_name - the name of the Azure Storage account
+#####   - storage_account_key - the access key for the Azure Storage account
+#####   - container_name - the name of the container to create in the Azure Storage account
+#####   - function_url - the URL of the Azure Function that uploads the data to the Azure Storage account
