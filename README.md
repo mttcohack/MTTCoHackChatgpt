@@ -18,10 +18,11 @@ This challenge is designed to help you understand how to integrate multiple Azur
 
 
 ## AI assistance
-- ChatGPT [http://chat.openai.com/]
+- [ChatGPT](http://chat.openai.com/)
+- [Guidance: Using ChatGPT Safely and Securely](https://microsoft.sharepoint.com/sites/MSProtect/SitePages/Guidance--Using-Chat-GPT-Safely-and-Securely.aspx?xsdata=MDV8MDF8fDZhNmYwMDgzNzAzYjQ0NDc5ZTMzMDhkYjEwNDRhZTcwfDcyZjk4OGJmODZmMTQxYWY5MWFiMmQ3Y2QwMTFkYjQ3fDB8MHw2MzgxMjE2NTkzNzM0OTM4MTF8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaVYybHVNeklpTENKQlRpSTZJazkwYUdWeUlpd2lWMVFpT2pFeGZRPT18MXxNVFkzTmpVMk9URXpOVFUwT0RzeE5qYzJOVFk1TVRNMU5UUTRPekU1T21KaFkyRmpPVGc0TWpVeU9EUXpPVGRoWXpRNE56RmpOVFZqT0RNNFlqUmpRSFJvY21WaFpDNXphM2x3WlE9PXw2NTczZDg5YzVhZWI0ZmU1M2JlMzA4ZGIxMDQ0YWU2ZXxkOTk4YmJkYmUyNGY0ZGZhOTM2YzkzOThmNDU2NWMzZA%3D%3D&sdata=Ky90TitpRFFvdVQySjhsWG5QS3hFbnlaK3d5SXpUTklBaW5DcHljU3ZzRT0%3D)
 
 ## Tools
-- Postman agent [https://www.postman.com/downloads/]
+- [Postman agent](https://www.postman.com/downloads/)
 - Visual Studio
 
 ## Description
