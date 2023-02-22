@@ -23,7 +23,7 @@ This challenge is designed to help you understand how to integrate multiple Azur
 
 ## Tools
 - [Postman agent](https://www.postman.com/downloads/)
-- Visual Studio
+- Visual Studio (In case you do not have Visual Studio installed in your machine you can create a VM with "Visual Studio 2022" Image )
 
 ## Description
 The challenge consists of the following steps:
