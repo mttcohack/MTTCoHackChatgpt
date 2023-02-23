@@ -1,3 +1,5 @@
+This file was generated using ChatGPT
+
    # Building an Azure Storage Function with ChatGpt Assistance
 
 # Overview
