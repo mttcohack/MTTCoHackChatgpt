@@ -23,7 +23,7 @@ This challenge is designed to help you understand how to integrate multiple Azur
 
 ## Tools
 - [Postman agent](https://www.postman.com/downloads/)
-- Visual Studio (In case you do not have Visual Studio installed in your machine you can create a VM with "Visual Studio 2022" Image )
+- Visual Studio (In case you do not have Visual Studio installed in your machine you can create a VM with "Visual Studio 2022" Image)
 
 ## Description
 The challenge consists of the following steps:
@@ -42,9 +42,10 @@ The challenge consists of the following steps:
 3. Write a function to upload sample data to the storage account
 
 ## Hints
-- To write the functions, you can use ChatGPT's suggestions and code snippets to help guide you.
+- Create a Resource Group with the name of your Team (example: Team1, Team2 ...)
+- You can use ChatGPT's suggestions and guideness.
 - The sample data can be a simple text file with the content "Hello World" and a filename of "GPT".
-- The Azure Functions project can be created using Visual Studio or the Azure portal.
+- The Azure Functions project can be created using Visual Studio or the Azure portal (An example of an Azure function is provided).
 - To make the storage account, select the option for LRS replication.
 
 ## Optional Challenge (More advanced) 
