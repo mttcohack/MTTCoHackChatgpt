@@ -45,7 +45,7 @@ The challenge consists of the following steps:
 - Create a Resource Group with the name of your Team (example: Team1, Team2 ...)
 - You can use ChatGPT's suggestions and guideness.
 - The sample data can be a simple text file with the content "Hello World" and a filename of "GPT".
-- The Azure Functions project can be created using Visual Studio or the Azure portal (An example of an Azure function is provided).
+- The Azure Functions project can be created using Visual Studio or the Azure portal (An example of an Azure function is provided [here](./scripts).
 - To make the storage account, select the option for LRS replication.
 
 ## Optional Challenge (More advanced) 
