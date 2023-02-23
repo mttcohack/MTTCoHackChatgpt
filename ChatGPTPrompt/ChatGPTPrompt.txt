@@ -1,0 +1,7 @@
+Here is my prompts and how i interact with ChatGPT to specify the context, set relationship and specify the goals :
+
+1- I want you to act as XXXXX
+2- I will give you XXXXX.
+3- You will XXXXXX
+4- What is the best prompt for ChatGPT to XXXXXX
+5- Show an example of the prompt i would type in
