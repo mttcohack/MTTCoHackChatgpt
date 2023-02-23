@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # This validation script was created by ChatGPT.
 
 # Prompt for the necessary parameters
